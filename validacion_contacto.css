@@ -1,0 +1,22 @@
+/* .alert {
+  color: #fff;
+  padding: 20px;
+  background: #d14539;
+} */
+.alert {
+    color: #fff;
+    padding: 20px;
+    background: #d14539;
+    width: 80%;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  
+  .alert_color {
+    color: #d14539;
+  }
+  .alert_bg {
+    background: rgba(230,169,171,.5);
+  }
